@@ -396,11 +396,6 @@ hash = "b3625f171b02ba1264bd281a8ab36708f68501f40cdfdb2c703e13c188d8324e"
 metafile = true
 
 [[files]]
-file = "mods/patchouli.pw.toml"
-hash = "ae4c3617170709ac560c8113f1526193e79750735d12bbc2d5119f518b866799"
-metafile = true
-
-[[files]]
 file = "mods/paucal.pw.toml"
 hash = "b07aad3095c15a09447c7ed156f66d89af6d834e2fe93011a4a883634f245350"
 metafile = true
