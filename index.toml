@@ -426,11 +426,6 @@ hash = "819fb8651fc7089771109fe69da0c89938b4bd63a10db51aaf3f90718646ff60"
 metafile = true
 
 [[files]]
-file = "mods/qsl.pw.toml"
-hash = "b8b8a60a1da87bb84af8236288d98b307f156551435bceceabbc61bb8fef0cd1"
-metafile = true
-
-[[files]]
 file = "mods/quarry-reborn.pw.toml"
 hash = "43ca32cb1e3ba894d65af2a98ce3807d0839f83868015197e44a0017d2e66177"
 metafile = true
