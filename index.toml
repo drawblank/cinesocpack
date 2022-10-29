@@ -187,7 +187,7 @@ metafile = true
 
 [[files]]
 file = "mods/feature-nbt-deadlock-be-gone.pw.toml"
-hash = "ab203a6341b5c9299542d974c451ce6737db8969486ecd63a621ff6fdca06384"
+hash = "67a4e4335c0eef1a23712d88f5cf7ef6fb5127493315c83701a896cc19d449f9"
 metafile = true
 
 [[files]]
@@ -342,7 +342,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcdoom.pw.toml"
-hash = "04231c1ca558805a08a0b64454bd3b043001b960f5cc9a32b6e2f910325beecc"
+hash = "a26cc9cc9bc307c64e90bfb13db4535e52cafa810093fc43a3fa75b4d7476695"
 metafile = true
 
 [[files]]
