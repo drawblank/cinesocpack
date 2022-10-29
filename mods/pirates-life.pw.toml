@@ -1,0 +1,13 @@
+name = "Pirates Life"
+filename = "pirate_life-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "384cd481d22b52d3f0c333a10dee4bde2a3b8041"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3686872
+project-id = 573279

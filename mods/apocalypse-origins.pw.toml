@@ -1,0 +1,13 @@
+name = "An Origins Addon - Apocalypse"
+filename = "apocalypse_origins-0.3.65.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d7f3f235bc19e0e8e0d8bca5e3ce0725b85e02b6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4048442
+project-id = 521235

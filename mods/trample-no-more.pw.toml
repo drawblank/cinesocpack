@@ -1,0 +1,13 @@
+name = "Trample No More"
+filename = "TrampleNoMore-Fabric-1.18.2-6.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b82d94027b25c378f859338f08342852b12d176f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3815616
+project-id = 377313

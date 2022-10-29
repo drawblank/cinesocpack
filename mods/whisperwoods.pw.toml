@@ -1,0 +1,13 @@
+name = "Whisperwoods"
+filename = "whisperwoods-1.18.2-2.1.0-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "86216541c22a5b2eeb6781d10cb845d0a91c7f11"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3765424
+project-id = 349597

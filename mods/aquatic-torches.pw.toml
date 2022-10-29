@@ -1,0 +1,13 @@
+name = "Aquatic Torches"
+filename = "aquatictorches-1.18-fabric-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7b9b2b21cc7e153d34a55c3b3155d8a333de75df"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3809077
+project-id = 563637

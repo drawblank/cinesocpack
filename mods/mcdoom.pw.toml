@@ -1,0 +1,13 @@
+name = "MCDoom"
+filename = "MCDoom-Quilt-1.18.2-4.2.32.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Mfo4FiDF/versions/ZAV2P02N/MCDoom-Quilt-1.18.2-4.2.32.jar"
+hash-format = "sha1"
+hash = "f297d8df268aeaf318c1c8b3f142388444d6f8d7"
+
+[update]
+[update.modrinth]
+mod-id = "Mfo4FiDF"
+version = "ZAV2P02N"

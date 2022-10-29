@@ -1,0 +1,13 @@
+name = "Golems Galore"
+filename = "golemsgalore-1.2.1+1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1ecc751682dc0193b8d4934d04dbf1e13b89b856"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3737806
+project-id = 387197

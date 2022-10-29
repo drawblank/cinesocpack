@@ -1,0 +1,13 @@
+name = "Hover Pets"
+filename = "hover-pets-0.3.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bf3c69ea45361aa6cb81be93f22aef90f0014a8f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3786184
+project-id = 559380

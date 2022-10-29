@@ -1,0 +1,13 @@
+name = "Easy Diamond [FORGE & FABRIC]"
+filename = "Easy Diamond-1.18.2-1.5.2-[FABRIC].jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "737cbbefea45b0f957e16dcaa563a989f7b6caae"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3709958
+project-id = 445745

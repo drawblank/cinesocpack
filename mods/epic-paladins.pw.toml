@@ -1,0 +1,13 @@
+name = "Epic Paladins"
+filename = "arclight-0.2-1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3cf889cb646b5be365a4f4f9aaa1ecd5694a4237"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3848105
+project-id = 635165

@@ -1,0 +1,13 @@
+name = "Ring of Growth [FABRIC]"
+filename = "RingOfGrowth-Fabric-1.18.2-1.2.23.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "47c2d6bd36f7ac3dcb0cccee3594d40d30e0d10e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3698662
+project-id = 378201

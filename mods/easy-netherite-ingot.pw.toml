@@ -1,0 +1,13 @@
+name = "Easy Netherite Ingot [FORGE & FABRIC]"
+filename = "Easy Netherite-1.18.2-1.0.0-[FABRIC].jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2c7af6900a8a1cfebad91204040d392d586e8c82"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3735550
+project-id = 597041

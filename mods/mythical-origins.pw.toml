@@ -1,0 +1,13 @@
+name = "Mythical Origins"
+filename = "Mythical Origins.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c5f14f4e66470702c6a31bd021798bcbaf99d4ac"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3668153
+project-id = 561065

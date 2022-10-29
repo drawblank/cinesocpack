@@ -1,0 +1,13 @@
+name = "CINESOC Pack 1"
+author = "Rat CEO"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "c2ac624ef0e7bbadf1583bf55fc8e7eaec251643afca0ef612bde36f2d1be4d9"
+
+[versions]
+minecraft = "1.18.2"
+quilt = "0.17.6"

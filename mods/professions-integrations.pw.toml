@@ -1,0 +1,13 @@
+name = "Professions Integrations"
+filename = "ProfessionsIntegration-1.18.2-FABRIC-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "29d3c58079b42c33a29cb5d19a777097f7edd88b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4041471
+project-id = 684878
